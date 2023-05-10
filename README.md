@@ -16,8 +16,21 @@
 - Postman Tool Fundamentals
 
 **Session #2: 03rd June 2023**
+- Authentication Fundamentals
 - Authentication in REST API
 - Connected Apps
 - Auth Providers
 - Username and Password Based Authentication in REST API's
 - Named Credentials
+
+**Session #3: TBD**
+- Implementation of OAuth 2.0
+- Implementation of JWT
+
+**Session #4: TBD**
+- Fundamentals of Integration Patterns
+- Implementation of Integration Patterns
+- Integration Best Practices
+- Integration Framework in Apex
+
+
