@@ -4,8 +4,6 @@
 2. **Salesforce Integration Bootcamp Slides:** https://bit.ly/41b6C12
 3. **Salesforce Integration Bootcamp Notes:** https://bit.ly/44BeNXp
 4. **Salesforce Integration Bootcamp Sheet:** https://bit.ly/3pktVs6
-5. **SFDC Org Credentials:** Username- sfdcintegration@bootcamp.com & Password- Bootcamp@1234 (**Please Don't Try to Change the Password because this Org is accessible for all**)
-
 
 **Session #1: 13th May 2023**
 - What is Integration?
