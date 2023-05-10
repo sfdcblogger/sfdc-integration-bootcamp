@@ -31,6 +31,5 @@
 - Fundamentals of Integration Patterns
 - Implementation of Integration Patterns
 - Integration Best Practices
-- Integration Framework in Apex
-
+- Integration Framework/Integration Design Patterns in Apex
 
